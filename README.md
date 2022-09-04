@@ -33,17 +33,17 @@
 
     - Result
 
-        ![Alt text](images/result.png "result")
+        ![Alt text](images/result.jpeg "result")
 
 
     - Element MF Product
         
-        ![Alt text](images/css-product.png "css-product")
+        ![Alt text](images/css-product.jpeg "css-product")
     
     
     - Network Hook MF Product
 
-        ![Alt text](images/remote-prodcut.png "remote-prodcut")
+        ![Alt text](images/remote-prodcut.jpeg "remote-prodcut")
 
 ### Contact
 https://www.linkedin.com/in/aji-indra-jaya
